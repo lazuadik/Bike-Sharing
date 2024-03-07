@@ -1,4 +1,4 @@
-# Bike-Sharing
+# Bike-Sharing Dashboard 🔥
 
 ## Setup environment
 ```
